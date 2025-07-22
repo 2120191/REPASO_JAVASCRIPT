@@ -62,7 +62,7 @@ para crear una variable primero tenemos que crear el enlace y luego darle el nom
 ## 5. METODOS PARA TRABAJAR CON DATOS ESTRUCTURADOS
 Cuando trabajamos con datos estructurados (como arreglos o listas y objetos), necesitamos realizar ciertas operaciones básicas para gestionar, manipular y organizar la información. Estas operaciones son universales en casi todos los lenguajes de programación.
 
-1. ✅ Acceder
+1.  Acceder
 
 ¿Qué es?
 Obtener el valor de un elemento o propiedad dentro de una estructura de datos como un areglo (`array`) o un objeto (`objet`) sin modificarlo. 
@@ -70,7 +70,7 @@ Obtener el valor de un elemento o propiedad dentro de una estructura de datos co
 ¿Para qué sirve?
 Permite leer información sin modificarla. 
 
-2. ✏️ Modificar
+2.  Modificar
 
 ¿Qué es?
 Cambie el valor de un elemento o propiedad dentro de una estructura ya existente. 
@@ -78,7 +78,7 @@ Cambie el valor de un elemento o propiedad dentro de una estructura ya existente
 ¿Para qué sirve?
 Actualizar información cuando cambia, como corregir un dato o reflejar nuevos valores. 
 
-3. ➕ Crear
+3. Crear
 
 ¿Qué es?
 Definir una nueva estructura de datos desde cero. 
@@ -86,7 +86,7 @@ Definir una nueva estructura de datos desde cero.
 ¿Para qué sirve?
 Inicializar listas, objetos o colecciones vacías o con valores iniciales. 
 
-4. 🔧 Insertar
+4.  Insertar
 
 ¿Qué es?
 Agregue uno o más elementos nuevos en una posición específica del arreglo (al inicio, al final o en medio). 
@@ -94,7 +94,7 @@ Agregue uno o más elementos nuevos en una posición específica del arreglo (al
 ¿Para qué sirve?
 Ampliar una lista con nuevos datos sin reemplazar los existentes. 
 
-5. ❌ Eliminar
+5.  Eliminar
 
 ¿Qué es?
 Remove un elemento o propiedad de la estructura de datos. 
@@ -102,7 +102,7 @@ Remove un elemento o propiedad de la estructura de datos.
 ¿Para qué sirve?
 Limpiar datos obsoletos, incorrectos o innecesarios. 
 
-6. 🔀 Ordenar
+6.  Ordenar
 
 ¿Qué es?
 Reorganizar los elementos de un arreglo según un criterio (alfabético, numérico, por fecha, etc.). 
